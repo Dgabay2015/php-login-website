@@ -2,7 +2,7 @@
   $dbhost  = 'localhost';    // Unlikely to require changing
   $dbname  = 'dgabay2015';   // Modify these...
   $dbuser  = 'dgabay2015';   // ...variables according
-  $dbpass  = 'BodC+ZOsPp';   // ...to your installation
+  $dbpass  = 'Gabaycpu1312!';   // ...to your installation
   $appname = "David's image sharing app"; // ...and preference
 
   $connection = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
